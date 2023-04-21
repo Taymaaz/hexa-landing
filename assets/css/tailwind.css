@@ -1,0 +1,18 @@
+@import url("./theme.css");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    .fa-num {
+        font-family: iranyekanfanum, sans-serif;
+        font-weight: normal;
+    }
+
+}
+
+@layer components {
+
+
+}
