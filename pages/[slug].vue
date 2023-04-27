@@ -29,7 +29,7 @@
                             </div>
                             <div
                     :style="{ color: `${link.title_color}` }">
-                               {{item?.title_ir}}
+                               {{link?.title}}
                             </div>
 
                         </a>
